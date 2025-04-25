@@ -14,3 +14,4 @@ This project is a **Smart Monitoring System** developed using Arduino and sensor
 
 
 ![image alt](https://github.com/Triveni-web-gif/Arduino/blob/b607dc256642e392490eca22fe3f320251b9165e/Screenshot%202025-04-25%20223313.png)
+![image alt](https://github.com/Triveni-web-gif/Arduino/blob/9f7b5f1314957cd63efc2b12fd07edc420a451fc/simulation.png)
